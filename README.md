@@ -1,5 +1,4 @@
 Hi 👋 My name is **Juan Felipe**.
-============================
 Olá, Meu nome é **Juan Felipe**.
 ============================
 
@@ -7,11 +6,11 @@ Olá, Meu nome é **Juan Felipe**.
 
 --------------------------------
 
-I started my life as programmer with VBA, back then I was trying to improve my worsheets on excel and challengind myself to do inovations at work and at my persone things, but nowadays I've found myself in love with python. 
+**I started my life as programmer with VBA, back then I was trying to improve my worsheets on excel and challengind myself to do inovations at work and at my persone things, but nowadays I've found myself in love with python. 
 I'm majored in production management industrial, and I have been switching careers from quality Analyst to Python back-end developer since december/2021.
 
 Eu iniciei minha vida na programação com VBA, tentando melhorar minhas planilhas no excel e me desafiando a fazer inovações no trabalho e nas minhas coisas pessoais.
-Eu sou formado em Gestão da produção industrial, e estou em transição de carreira de analista da qualidade para Desenvolvedor Python Junior desde dezembro de 2021.
+Eu sou formado em Gestão da produção industrial, e estou em transição de carreira de analista da qualidade para Desenvolvedor Python Junior desde dezembro de 2021.**
 --------------------------------
 
 
