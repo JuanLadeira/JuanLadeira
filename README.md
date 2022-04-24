@@ -29,7 +29,7 @@ I started with VBA, but nowadays I've found myself in love with python. Im major
 
 <a href="http://www.github.com/JuanLadeira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanLadeira&stroke=14b8a6&background=181824&ring=6366f1&fire=6366f1&currStreakNum=14b8a6&currStreakLabel=6366f1&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-![Snake animation](https://github.com/JuanLadeira/JuanLadeira/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/JuanLadeira/JuanLadeira/blob/output/github-contribution-grid-snake.svg)
 
 <b>Top Repositories</b>
 
