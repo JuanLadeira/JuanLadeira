@@ -35,6 +35,8 @@ Eu sou formado em Gestão da produção industrial, e estou em transição de ca
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/JuanLadeira/djblogger" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=djblogger&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<br/>
 <div width="100%" align="center"><a href="https://github.com/JuanLadeira/pythonbirds" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=pythonbirds&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
 <br/>
 <div width="100%" align="center"><a href="https://github.com/JuanLadeira/netflix" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=netflix&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
