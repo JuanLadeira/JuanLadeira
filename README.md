@@ -2,18 +2,44 @@ Hi 👋 My name is **Juan Felipe**. |
 Olá, 👋 Meu nome é **Juan Felipe**.
 ============================
 
-**Junior Python back-end Developer** | **Desenvolvedor Python Junior**
+**Python back-end Developer** | 
+**Desenvolvedor Python**
 --------------------------------
-I started my life as programmer with VBA, back then I was trying to improve my worsheets on excel and challengind myself to do inovations at work and at my persone things, but nowadays I've found myself in love with python. 
-I'm majored in production management industrial, and I have been switching careers from quality Analyst to Python back-end developer since december/2021.
 
-Eu iniciei minha vida na programação com VBA, tentando melhorar minhas planilhas no excel e me desafiando a fazer inovações no trabalho e nas minhas coisas pessoais.
-Eu sou formado em Gestão da produção industrial, e estou em transição de carreira de analista da qualidade para Desenvolvedor Python Junior desde dezembro de 2021.
+Tech Skills & Career Transition
+
+I'm in an exciting career transition into software development, where my passion and focus are growing every day. With a solid foundation in Python, I excel in using Django, creating robust and scalable APIs with Django Rest Framework.
+
+Recently, I've delved into technologies like Celery for task automation and multitenants for a more flexible approach in Django. I'm exploring features of Django Rest Framework, such as pagination and permissions, and using django-filters to enhance interaction with viewsets. I'm also working with API documentation, utilizing tools like drf-spectacular, and command-line automation with tox and taskpy.
+
+My experience isn't limited to the back-end. I'm skilled with Excel and the xlwings library, but my true passion lies in infrastructure management. I'm mastering Docker and Kubernetes, managing containers and handling applications at scale.
+
+In the world of testing, I adopt powerful tools like pytest, Factory Boy, Faker, and Hypothesis, ensuring complete coverage and security with python-decouple. When it comes to package management, Poetry is my choice for its simplicity and effectiveness.
+
+Although my heart is in back-end and DevOps, I recognize the importance of a complete perspective on software development. That's why I'm deepening my knowledge in Javascript and exploring the React library.
+
+Currently, I'm enriching my education with a postgraduate degree in software engineering at Faculdade Metropolitana de São Paulo. I'm learning about everything from software life cycles to the software crisis of the 1950s, and how to apply best practices in my career.
+
+Above all, I consider myself a kind and communicative person, always eager to learn and grow. My journey is just beginning, and I'm excited to see where it will take me.
+
+Estou em uma emocionante transição de carreira para o desenvolvimento de software, onde minha paixão e foco estão crescendo a cada dia. Com uma base sólida em Python, me destaco na utilização do Django, criando APIs robustas e escaláveis com o Django Rest Framework.
+
+Recentemente, mergulhei em tecnologias como Celery para automatizar tarefas e multitenants para uma abordagem mais flexível no Django. Estou explorando recursos do Django Rest Framework, como paginação e permissões, além de utilizar django-filters para aprimorar a interação com viewsets. Também estou trabalhando com documentação de APIs, utilizando ferramentas como drf-spectacular, e automação de linha de comando com tox e taskpy.
+
+Minha experiência não se limita ao back-end. Sou habilidoso com Excel e a biblioteca xlwings, mas minha verdadeira paixão reside na gestão de infraestruturas. Estou dominando o Docker e o Kubernetes, gerenciando containers e manipulando aplicações em escala.
+
+No mundo dos testes, adoto ferramentas poderosas como pytest, Factory Boy, Faker e Hypothesis, garantindo cobertura completa e segurança com o python-decouple. Quando se trata de gerenciamento de pacotes, o Poetry é minha escolha por sua simplicidade e eficácia.
+
+Embora meu coração esteja no back-end e DevOps, reconheço a importância de uma visão completa do desenvolvimento de software. Por isso, estou me aprofundando em Javascript e explorando a biblioteca React.
+
+Atualmente, estou enriquecendo minha educação com uma pós-graduação em engenharia de software na Faculdade Metropolitana de São Paulo. Estou aprendendo sobre tudo, desde os ciclos de vida de software até a crise de software dos anos 50, e como aplicar as melhores práticas na minha carreira.
+
+Acima de tudo, me considero uma pessoa gentil e comunicativa, sempre ansioso para aprender e crescer. Minha jornada está apenas começando, e estou animado para ver onde ela me levará.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil. | 🌍 Eu sou do Rio de Janeiro, Brasil.
 * ✉️  You can contact me at [juan.fll@hotmail.com](mailto:juan.fll@hotmail.com) | ✉️ Você pode entrar em contato comigo via: [juan.fll@hotmail.com](mailto:juan.fll@hotmail.com)
-* 🧠  I'm learning Python and the framework Django. | 🧠 Estou aprendendo Python e o framework Django.
+* 🧠 
 
 ### Skills
 
@@ -46,9 +72,4 @@ Eu sou formado em Gestão da produção industrial, e estou em transição de ca
 <br/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanLadeira&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></br>
 <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLadeira&langs_count=3&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"></br>
-</div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ladeirajuan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ 
