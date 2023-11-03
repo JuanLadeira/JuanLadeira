@@ -24,7 +24,9 @@ Estou numa transição de carreira para o desenvolvimento de software, e cada di
 
 Recentemente, tenho usado o Celery para dar uma turbinada nas tarefas automáticas e mergulhando nos recursos do Django Rest Framework, como paginação e permissões, melhorando a interação com viewsets através do django-filters. Para documentação de API, o drf-spectacular tem sido meu parceiro, e estou na vibe da automação de comandos com tox e taskpy.
 
-Embora eu me garanta com Excel e xlwings, sei que tenho um caminho a percorrer com Docker e Kubernetes, e estou dedicado a isso. Também estou me jogando no TDD com pytest, Factory Boy e Hypothesis para os testes unitários, além de Selenium e Playwright para os testes funcionais, mantendo tudo nos trilhos com o python-decouple e adotando o Poetry para gerenciar pacotes com simplicidade e eficiência.
+Embora eu já tenha utilizado Docker e Kubernets sei que tenho um caminho a percorrer com essas ferramentas, e estou dedicado a isso. Também estou me jogando no TDD com pytest, Factory Boy e Hypothesis para os testes unitários, além de Selenium e Playwright para os testes funcionais, mantendo tudo nos trilhos com o python-decouple e adotando o Poetry para gerenciar pacotes com simplicidade e eficiência.
+
+Tenho tambem proficiência com excel, principalmente usando em conjunto com Xlwings.
 
 Olhando para o futuro, estou animado para aprender Golang e me aprofundar em JavaScript, especialmente explorando frameworks como Next.js para ampliar meus horizontes no desenvolvimento com React.
 
