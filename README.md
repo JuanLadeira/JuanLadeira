@@ -6,7 +6,7 @@ Olá, 👋 Meu nome é **Juan Felipe**.
 **Desenvolvedor Python**
 --------------------------------
 
-Tech Skills & Career Transition |
+Tech Skills & Career Transition 
 
 I'm currently navigating an exciting career transition into software development, where my engagement grows stronger by the day. Python is my foundation, and what I've really been enjoying is working with Django, building top-notch APIs with the Django Rest Framework.
 
@@ -31,8 +31,10 @@ Olhando para o futuro, estou animado para aprender Golang e me aprofundar em Jav
 No presente, estou me capacitando com uma pós-graduação em engenharia de software, absorvendo conhecimentos sobre os ciclos de vida de software e como aplicar as melhores práticas no desenvolvimento.
 Paralelamente, estou colocando em prática meu conhecimento crescente, desenvolvendo um Sistema de Gestão da Qualidade para uma empresa de calibração, desafio que está sendo um verdadeiro impulso para o meu crescimento profissional. Estou cheio de expectativa para os próximos passos dessa jornada de aprendizado e evolução.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil. | 🌍 Eu sou do Rio de Janeiro, Brasil.
-* ✉️  You can contact me at [juan.fll@hotmail.com](mailto:juan.fll@hotmail.com) | ✉️ Você pode entrar em contato comigo via: [juan.fll@hotmail.com](mailto:juan.fll@hotmail.com)
+* 🌍  I'm based in Cabo Frio, Brazil. | 🌍 Eu sou de Cabo Frio, Brasil.
+  
+* ✉️  You can contact me at [ladeirajuan96@gmail.com ](mailto:ladeirajuan96@gmail.com) | ✉️ Você pode entrar em contato comigo via: [ladeirajuan96@gmail.com ](mailto:ladeirajuan96@gmail.com)
+  
 * 🧠 
 
 ### Skills
