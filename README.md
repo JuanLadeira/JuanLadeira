@@ -7,6 +7,7 @@ Olá, 👋 Meu nome é **Juan Felipe**.
 --------------------------------
 
 Tech Skills & Career Transition |
+
 I'm currently navigating an exciting career transition into software development, where my engagement grows stronger by the day. Python is my foundation, and what I've really been enjoying is working with Django, building top-notch APIs with the Django Rest Framework.
 
 Lately, I've been leveraging Celery to supercharge automated tasks and diving into the features of the Django Rest Framework, like pagination and permissions, enhancing interactions with viewsets using django-filters. For API documentation, drf-spectacular has been my go-to tool, and I'm all about command-line automation with tox and taskpy.
