@@ -7,35 +7,28 @@ Olá, 👋 Meu nome é **Juan Felipe**.
 --------------------------------
 
 Tech Skills & Career Transition
+I'm currently navigating an exciting career transition into software development, where my engagement grows stronger by the day. Python is my foundation, and what I've really been enjoying is working with Django, building top-notch APIs with the Django Rest Framework.
 
-I'm in an exciting career transition into software development, where my passion and focus are growing every day. With a solid foundation in Python, I excel in using Django, creating robust and scalable APIs with Django Rest Framework.
+Lately, I've been leveraging Celery to supercharge automated tasks and diving into the features of the Django Rest Framework, like pagination and permissions, enhancing interactions with viewsets using django-filters. For API documentation, drf-spectacular has been my go-to tool, and I'm all about command-line automation with tox and taskpy.
 
-Recently, I've delved into technologies like Celery for task automation and multitenants for a more flexible approach in Django. I'm exploring features of Django Rest Framework, such as pagination and permissions, and using django-filters to enhance interaction with viewsets. I'm also working with API documentation, utilizing tools like drf-spectacular, and command-line automation with tox and taskpy.
+While I'm proficient with Excel and xlwings, I acknowledge that there's more to learn with Docker and Kubernetes, and I'm committed to improving in that area. I've also embraced TDD, employing pytest, Factory Boy, and Hypothesis for unit testing, and Selenium and Playwright for functional tests, keeping everything secure and robust with python-decouple. When it comes to package management, Poetry is my tool of choice for its practicality and efficiency.
 
-My experience isn't limited to the back-end. I'm skilled with Excel and the xlwings library, but my true passion lies in infrastructure management. I'm mastering Docker and Kubernetes, managing containers and handling applications at scale.
+Looking ahead, I'm thrilled to delve into Golang and deepen my JavaScript skills, particularly by exploring frameworks like Next.js to extend my development capabilities with React.
 
-In the world of testing, I adopt powerful tools like pytest, Factory Boy, Faker, and Hypothesis, ensuring complete coverage and security with python-decouple. When it comes to package management, Poetry is my choice for its simplicity and effectiveness.
+At the moment, I'm enhancing my skill set with a postgraduate degree in software engineering, soaking in everything from software life cycles to the implementation of industry best practices. I'm excitedly anticipating the next steps in this journey of learning and growth.
 
-Although my heart is in back-end and DevOps, I recognize the importance of a complete perspective on software development. That's why I'm deepening my knowledge in Javascript and exploring the React library.
+Concurrently, I'm applying my growing expertise by developing a Quality Management System for a calibration company, which is not only a challenging project but also a catalyst for my professional growth. I'm excitedly anticipating the next steps in this journey of learning and growth.
 
-Currently, I'm enriching my education with a postgraduate degree in software engineering at Faculdade Metropolitana de São Paulo. I'm learning about everything from software life cycles to the software crisis of the 1950s, and how to apply best practices in my career.
+Estou numa transição de carreira para o desenvolvimento de software, e cada dia que passa estou mais envolvido. Python é minha base, e o que realmente tenho curtido é trabalhar com Django, construindo APIs que são um show de bola com o Django Rest Framework.
 
-Above all, I consider myself a kind and communicative person, always eager to learn and grow. My journey is just beginning, and I'm excited to see where it will take me.
+Recentemente, tenho usado o Celery para dar uma turbinada nas tarefas automáticas e mergulhando nos recursos do Django Rest Framework, como paginação e permissões, melhorando a interação com viewsets através do django-filters. Para documentação de API, o drf-spectacular tem sido meu parceiro, e estou na vibe da automação de comandos com tox e taskpy.
 
-Estou em uma emocionante transição de carreira para o desenvolvimento de software, onde minha paixão e foco estão crescendo a cada dia. Com uma base sólida em Python, me destaco na utilização do Django, criando APIs robustas e escaláveis com o Django Rest Framework.
+Embora eu me garanta com Excel e xlwings, sei que tenho um caminho a percorrer com Docker e Kubernetes, e estou dedicado a isso. Também estou me jogando no TDD com pytest, Factory Boy e Hypothesis para os testes unitários, além de Selenium e Playwright para os testes funcionais, mantendo tudo nos trilhos com o python-decouple e adotando o Poetry para gerenciar pacotes com simplicidade e eficiência.
 
-Recentemente, mergulhei em tecnologias como Celery para automatizar tarefas e multitenants para uma abordagem mais flexível no Django. Estou explorando recursos do Django Rest Framework, como paginação e permissões, além de utilizar django-filters para aprimorar a interação com viewsets. Também estou trabalhando com documentação de APIs, utilizando ferramentas como drf-spectacular, e automação de linha de comando com tox e taskpy.
+Olhando para o futuro, estou animado para aprender Golang e me aprofundar em JavaScript, especialmente explorando frameworks como Next.js para ampliar meus horizontes no desenvolvimento com React.
 
-Minha experiência não se limita ao back-end. Sou habilidoso com Excel e a biblioteca xlwings, mas minha verdadeira paixão reside na gestão de infraestruturas. Estou dominando o Docker e o Kubernetes, gerenciando containers e manipulando aplicações em escala.
-
-No mundo dos testes, adoto ferramentas poderosas como pytest, Factory Boy, Faker e Hypothesis, garantindo cobertura completa e segurança com o python-decouple. Quando se trata de gerenciamento de pacotes, o Poetry é minha escolha por sua simplicidade e eficácia.
-
-Embora meu coração esteja no back-end e DevOps, reconheço a importância de uma visão completa do desenvolvimento de software. Por isso, estou me aprofundando em Javascript e explorando a biblioteca React.
-
-Atualmente, estou enriquecendo minha educação com uma pós-graduação em engenharia de software na Faculdade Metropolitana de São Paulo. Estou aprendendo sobre tudo, desde os ciclos de vida de software até a crise de software dos anos 50, e como aplicar as melhores práticas na minha carreira.
-
-Acima de tudo, me considero uma pessoa gentil e comunicativa, sempre ansioso para aprender e crescer. Minha jornada está apenas começando, e estou animado para ver onde ela me levará.
-
+No presente, estou me capacitando com uma pós-graduação em engenharia de software, absorvendo conhecimentos sobre os ciclos de vida de software e como aplicar as melhores práticas no desenvolvimento.
+Paralelamente, estou colocando em prática meu conhecimento crescente, desenvolvendo um Sistema de Gestão da Qualidade para uma empresa de calibração, desafio que está sendo um verdadeiro impulso para o meu crescimento profissional. Estou cheio de expectativa para os próximos passos dessa jornada de aprendizado e evolução.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil. | 🌍 Eu sou do Rio de Janeiro, Brasil.
 * ✉️  You can contact me at [juan.fll@hotmail.com](mailto:juan.fll@hotmail.com) | ✉️ Você pode entrar em contato comigo via: [juan.fll@hotmail.com](mailto:juan.fll@hotmail.com)
