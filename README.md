@@ -59,11 +59,11 @@ Paralelamente, estou colocando em prática meu conhecimento crescente, desenvolv
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/JuanLadeira/djblogger" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=djblogger&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/JuanLadeira/Estoque-API" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=djblogger&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
 <br/>
-<div width="100%" align="center"><a href="https://github.com/JuanLadeira/pythonbirds" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=pythonbirds&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/JuanLadeira/fastzero" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=pythonbirds&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
 <br/>
-<div width="100%" align="center"><a href="https://github.com/JuanLadeira/netflix" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=netflix&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/JuanLadeira/drf-ecommerce-project" align="center"><img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanLadeira&repo=netflix&title_color=6366f1&text_color=14b8a6&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en" /></a></div>
 <br/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JuanLadeira&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="JuanLadeira GitHub stats"></br>
