@@ -17,6 +17,7 @@ I am always seeking continuous improvement and have a strong sense of responsibi
 ### Backend
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/djangorestframework-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django Ninja](https://img.shields.io/badge/django%20ninja-30B980?style=for-the-badge&logo=django&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Celery](https://img.shields.io/badge/celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
