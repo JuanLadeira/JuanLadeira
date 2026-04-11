@@ -2,7 +2,7 @@
 
 Backend engineer specializing in Python, with a focus on building scalable APIs,
 process automation, and AI-powered systems. I work across the full delivery
-cycle — from architecture and domain modeling to deployment and observability.
+cycle from architecture and domain modeling to deployment and observability.
 
 Currently building **DocAgent**: a multi-tenant AI agent platform with RAG over
 PDFs, WhatsApp and Telegram integrations, and tool-calling agents orchestrated
